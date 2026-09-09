@@ -46,9 +46,9 @@ export const briefing = {
       { label: "9p", level: 2 },
     ],
   },
-  primary: ["Papa Bob Stand", "GaGa Woods Stand", "Braswell Midway"],
-  secondary: ["Upper Food Plot", "Lower Food Plot", "Pine Thicket Stand"],
-  caution: ["Bottom Creek Stand", "Drews Stand", "Upper Creeks Stand"],
+  primary: ["Adams Creek bench", "Timber staging pocket", "West ridge ponds"],
+  secondary: ["Dutch Buffalo terrace", "Interior long plot", "Powerline pinch"],
+  caution: ["Preserve edge field"],
   week: [
     { day: "Thu 20", hi: 97, lo: 72, wind: "SW–Var", quality: "Fair", note: "Hot + storm risk PM" },
     { day: "Fri 21", hi: 94, lo: 71, wind: "S–SE", quality: "Fair", note: "Storms more likely" },
