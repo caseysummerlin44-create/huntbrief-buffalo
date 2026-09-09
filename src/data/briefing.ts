@@ -7,25 +7,18 @@ export type Stand = {
 };
 
 export const STANDS: Stand[] = [
-  { id: "pine", name: "Pine Thicket Stand", zone: "North timber" },
-  { id: "braswell-back", name: "Braswell Back", zone: "Northeast" },
-  { id: "braswell-mid", name: "Braswell Midway", zone: "Mid-north" },
-  { id: "papa-bob", name: "Papa Bob Stand", zone: "Central-west" },
-  { id: "gaga", name: "GaGa Woods Stand", zone: "West-central timber" },
-  { id: "upper-plot", name: "Upper Food Plot", zone: "Upper plot edge" },
-  { id: "lower-plot", name: "Lower Food Plot", zone: "Lower plot edge" },
-  { id: "upper-creek", name: "Upper Creeks Stand", zone: "Eastern creek finger" },
-  { id: "marty", name: "Martys Stand", zone: "South-central" },
-  { id: "papa-darin", name: "Papa Darin Stand", zone: "Southeast interior" },
-  { id: "drew", name: "Drews Stand", zone: "Southeast near creek" },
-  { id: "bottom-creek", name: "Bottom Creek Stand", zone: "Lower creek corridor" },
-  { id: "papa-hill", name: "Papa Bobs Hill", zone: "Southern hill / point" },
+  { id: "adams-bench", name: "Adams Creek bench", zone: "North timber" },
+  { id: "buffalo-terrace", name: "Dutch Buffalo terrace", zone: "East creek" },
+  { id: "long-plot", name: "Interior long plot", zone: "Food" },
+  { id: "staging-pocket", name: "Timber staging pocket", zone: "Staging" },
+  { id: "ridge-ponds", name: "West ridge ponds", zone: "Water" },
+  { id: "powerline-pinch", name: "Powerline pinch", zone: "Funnel" },
 ];
 
 export const briefing = {
   dateLabel: "Thursday, August 20, 2026",
-  property: "Anson County, NC · Central Zone · 308 acres",
-  coords: "35.076243, –80.193882",
+  property: "Buffalo Creek Hunt Club · Cabarrus County, NC",
+  coords: "35.375361, –80.433417",
   legalStart: "6:15 AM",
   legalEnd: "8:34 PM",
   sunrise: "6:45 AM",
