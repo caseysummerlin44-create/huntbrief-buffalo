@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Anson sample onX shapes</name>
+    <Placemark>
+      <name>Fall food plot — north beans edge</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -80.19480,35.08090,0
+              -80.19320,35.08090,0
+              -80.19320,35.08010,0
+              -80.19480,35.08010,0
+              -80.19480,35.08090,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

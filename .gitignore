@@ -1,0 +1,28 @@
+node_modules
+.vercel
+.output
+.nitro
+.grok
+dist
+screenshots
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+*.local
+data/*.db
+data/*.db-*
+Hunt Brief/04-Property-Maps/*.png
+Hunt Brief/04-Property-Maps/*.jpg
+Hunt Brief/04-Property-Maps/*.MOV
+Hunt Brief/04-Property-Maps/*.mov
+attachments
+artifacts/THE-INTERCEPT
+Hunt-Brief.zip
+Hunt-Brief-CORE.zip
+Hunt-Brief-TINY.zip
+Hunt-Brief-CORE
+Hunt-Brief-TINY
+Desktop
+knowledge
